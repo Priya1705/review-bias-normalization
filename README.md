@@ -94,6 +94,7 @@ Further analysis on the data is done in iPython notebooks for better visualizati
 
 If you use this method in your research, please cite:
 
+```
 @inproceedings{yadav-etal-2020-unbiasing,
     title = "Unbiasing Review Ratings with Tendency Based Collaborative Filtering",
     author = "Yadav, Pranshi  and
@@ -109,3 +110,4 @@ If you use this method in your research, please cite:
     pages = "50--56",
     abstract = "User-generated contents{'} score-based prediction and item recommendation has become an inseparable part of the online recommendation systems. The ratings allow people to express their opinions and may affect the market value of items and consumer confidence in e-commerce decisions. A major problem with the models designed for user review prediction is that they unknowingly neglect the rating bias occurring due to personal user bias preferences. We propose a tendency-based approach that models the user and item tendency for score prediction along with text review analysis with respect to ratings.",
 }
+'''
